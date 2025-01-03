@@ -1,23 +1,15 @@
 <!--
 **ZykeLaDebrouille/ZykeLaDebrouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯  on ...
--  I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hey/Bonjour 👋, I'm Enes</h1>
 <h3 align="center">A passionate learner, and I'm probably still learning... ^^</h3>
 <p>
-  - 💬 Ask me about everything you want and which I can help you with, I still can try to help you !
+  - 💬 Ask me about everything you want and which I can help you with, I will try to help you !
 <br>
 - 🔭 I’m looking to collaborate and don't hesitate, I  will kindly help (if I can obviously) :)
+<br>
+- 😄 Yes, I like to help !
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zykeladebrouille&label=Profile%20views&color=ce3636&style=flat" alt="zykeladebrouille" /> </p>
 
