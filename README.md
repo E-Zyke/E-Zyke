@@ -2,7 +2,7 @@
 **ZykeLaDebrouille/ZykeLaDebrouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hey/Bonjour 👋, I'm Enes</h1>
+<h1 align="center">Hey  👋, I'm Enes</h1>
 <h3 align="center">A passionate learner, and I'm probably still learning... ^^</h3>
 <p>
 - 💬 Ask me about anything you want and I can help you with, I will try to help you!
