@@ -5,11 +5,9 @@
 <h1 align="center">Hey/Bonjour 👋, I'm Enes</h1>
 <h3 align="center">A passionate learner, and I'm probably still learning... ^^</h3>
 <p>
-  - 💬 Ask me about everything you want and which I can help you with, I will try to help you !
-<br>
-- 🔭 I’m looking to collaborate and don't hesitate, I  will kindly help (if I can obviously) :)
-<br>
-- 😄 Yes, I like to help !
+- 💬 Ask me about anything you want and I can help you with, I will try to help you!
+- 🔭 I'm looking for cooperation and don't hesitate, I'll help you (if I can, of course) :)
+- 😄 Yes, I like to help!
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zykeladebrouille&label=Profile%20views&color=ce3636&style=flat" alt="zykeladebrouille" /> </p>
 
