@@ -41,7 +41,4 @@
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 </div>
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=zykeladebrouille&style=for-the-badge" alt="Github Views" width="200px">
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zykeladebrouille&label=Profile%20views&color=ce3636&style=flat" alt="zykeladebrouille" /> </p>
