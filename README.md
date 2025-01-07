@@ -42,4 +42,4 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zykeladebrouille&label=Profile%20views&color=ce3636&style=flat" alt="zykeladebrouille" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zykeladebrouille&label=Profile%20views&color=ce3636&style=flat" alt="zykeladebrouille" /> </p>
