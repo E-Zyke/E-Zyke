@@ -31,14 +31,16 @@
 <div align="center">
 
 ## **Most used languages 🏅:**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zykeladebrouille&langs_count=5&theme=tokyonight" alt="Top Langs">
+
+![zykeladebrouille's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zykeladebrouille&theme=maroongold&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 
 <div align="center">
 
 ## **Stats 🔥:**
-<img src="https://github-readme-stats.vercel.app/api/?username=zykeladebrouille&count_private=true&theme=tokyonight&showicons=true" alt="Enes's Github stats">
+
+![zykeladebrouille's Stats](https://github-readme-stats.vercel.app/api?username=zykeladebrouille&theme=maroongold&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 
