@@ -36,12 +36,4 @@
 </div>
 
 
-<div align="center">
-
-## **Stats 🔥:**
-
-![zykeladebrouille's Stats](https://github-readme-stats.vercel.app/api?username=zykeladebrouille&theme=maroongold&show_icons=true&hide_border=true&count_private=true)
-</div>
-
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=zykeladebrouille&label=Profile%20views&color=ce3636&style=flat" alt="zykeladebrouille" /> </p>
