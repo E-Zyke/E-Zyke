@@ -32,8 +32,8 @@
 
 ## **Most used languages 🏅:**
 
-![zykeladebrouille's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zykeladebrouille&theme=maroongold&show_icons=true&hide_border=true&layout=compact)
+![zykeladebrouille's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-Zyke&theme=maroongold&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zykeladebrouille&label=Profile%20views&color=ce3636&style=flat" alt="zykeladebrouille" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=E-Zyke&label=Profile%20views&color=ce3636&style=flat" alt="E-Zyke" /> </p>
