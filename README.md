@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1 align="center">Hey  👋, I'm Enes</h1>
-<h3 align="center">A passionate learner, and I'm probably still learning... ^^</h3>
 
 <h4 align="left">Étudiant Web & Mobile né en 2004, toujours en quête de nouveaux défis.
 Curieux insatiable, j’explore tout: JavaScript, React, Node.js…
