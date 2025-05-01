@@ -3,7 +3,10 @@
 <h1 align="center">Hey  👋, I'm Enes</h1>
 <h3 align="center">A passionate learner, and I'm probably still learning... ^^</h3>
 
-<h4 align="left">Let me introduce myself, I'm a man born in 2004, curious to learn if you do not know. So everything that interests me, I try to learn a bit of it. I like to have knowledge of everything. I'm not a master of anything, I'm an amateur of everything :)  </h4>
+<h4 align="left">Étudiant Web & Mobile né en 2004, toujours en quête de nouveaux défis.
+Curieux insatiable, j’explore tout: JavaScript, React, Node.js…
+Amateur de projets variés, je partage ici mes expériences et découvertes.
+🚀 Let’s build something awesome together! </h4>
 <p>
 - 💬 Ask me about anything you want and I can help you with, I will try to help you!
 <br>
