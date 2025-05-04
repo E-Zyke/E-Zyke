@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1 align="center">Hey  👋, I'm Enes</h1>
+<h1 align="center">Salut  👋, c'est Enes</h1>
 
-<h4 align="left">Étudiant Web & Mobile né en 2004, toujours en quête de nouveaux défis.
-Curieux insatiable, j’explore tout: JavaScript, React, Node.js…
+<h4 align="left">Étudiant Web & Web Mobile né en 2004, toujours en quête de nouveaux défis.
+Curieux, j’explore tout: JavaScript, React, Node.js…
 Amateur de projets variés, je partage ici mes expériences et découvertes.
 🚀 Let’s build something awesome together! </h4>
 
